@@ -1,0 +1,88 @@
+body{
+	font-family: sans-serif;
+	background: #d5f0f3;
+}
+
+h1{
+	text-align: center;
+	/*ketebalan font*/
+	font-weight: 300;
+}
+
+.table {
+    font-family: sans-serif;
+    color: #232323;
+    border-collapse: collapse;
+}
+.table, th, td {
+    border: 1px solid #999;
+    padding: 10px 20px;
+}
+
+.ubah{
+	width: 500px;
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+
+label{
+	font-size: 11pt;
+}
+
+.ngubah{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 50%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.tombol{
+	background: #46de4b;
+	color: white;
+	font-size: 11pt;
+	width: 100%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+.tambah{
+	width: 500px;
+	background: white;
+	/*meletakkan form ke tengah*/
+	margin: 80px auto;
+	padding: 30px 20px;
+}
+
+.nambah{
+	/*membuat lebar form penuh*/
+	box-sizing : border-box;
+	width: 50%;
+	padding: 10px;
+	font-size: 11pt;
+	margin-bottom: 20px;
+}
+
+.tombol2{
+	background: #0228fd;
+	color: rgb(255, 255, 255);
+	font-size: 11pt;
+	width: 10%;
+	border: none;
+	border-radius: 3px;
+	padding: 10px 20px;
+}
+
+.tombol3{
+	background: #0228fd;
+	color: rgb(255, 255, 255);
+	font-size: 8pt;
+	width: 10%;
+	border: none;
+	border-radius: 1px;
+	padding: 5px 5px;
+}
